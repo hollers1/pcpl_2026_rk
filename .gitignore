@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+AIS_Tourism_IDEF0.drawio
